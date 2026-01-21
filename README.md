@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Sheikh Abdul Rehman<br><br>Precision-Driven AI, Purpose-Built for People<br><br>🎓 Student at Sindh Madressatul Islam University<br>📍 Karachi, Sindh, Pakistan<br>🧠 Aspiring AI & Data Science Practitioner<br><br>🔭 I’m currently working on<br><br>Kaggle notebooks and competitions<br><br>Data analysis and machine learning projects<br><br>Improving model performance through feature engineering and evaluation<br><br>👯 I’m looking to collaborate on<br><br>Machine Learning and AI projects<br><br>Data Science competitions on Kaggle<br><br>Open-source projects related to AI, Python, and analytics<br><br>🤝 I’m looking for help with<br><br>Advanced machine learning techniques<br><br>Model optimization and deployment<br><br>Real-world AI project guidance<br><br>🌱 I’m currently learning<br><br>Machine Learning & Deep Learning<br><br>Python for Data Science<br><br>Data visualization and statistical analysis<br><br>💬 Ask me about<br><br>Kaggle workflows<br><br>Beginner-friendly ML concepts<br><br>Data preprocessing and exploratory data analysis (EDA)<br><br>⚡ Fun fact<br><br>I enjoy turning raw data into meaningful insights and practical solutions
+👋 Hi, I'm Sheikh Abdul Rehman<br><br>Precision-Driven AI, Purpose-Built for People<br><br>🎓 Student at Sindh Madressatul Islam University<br>📍 Karachi, Sindh, Pakistan<br>🧠 Aspiring AI & Data Science Practitioner<br><br>🔭 I’m currently working on Kaggle ML & data science projects<br><br>👯 I’m looking to collaborate on Machine Learning and AI projects<br><br>🤝 I’m looking for help with Advanced machine learning techniques<br><br>🌱 I’m currently learning Machine Learning & Deep Learning<br><br>💬 Ask me about Kaggle workflows and Data preprocessing and exploratory data analysis (EDA)<br><br>⚡ Fun fact I enjoy turning raw data into meaningful insights and practical solutions
 
 
 ## 🌐 Socials:
@@ -11,6 +11,15 @@
 ![](https://github-readme-stats.vercel.app/api?username=SheikhAbdulRehman926&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SheikhAbdulRehman926&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SheikhAbdulRehman926&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SheikhAbdulRehman926&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SheikhAbdulRehman926&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SheikhAbdulRehman926&icon=0&color=0)](https://visitcount.itsvg.in)
